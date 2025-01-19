@@ -1,0 +1,13 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore environment files (e.g. .env or config files)
+.env
+
+# Ignore SQLite database file
+db.sqlite3
+
+# Ignore settings.py if it's not part of your version control
+settings.py
+
